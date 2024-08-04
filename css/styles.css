@@ -631,7 +631,7 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-form-field .modal-form-input:focus svg{
+.modal-form-input:focus svg{
   fill: #4D5AE5;
 }
 
@@ -694,5 +694,5 @@ img {
   cursor: pointer;
   background-color: #4D5AE5;
   border: none;
-  transition: background-color 250ms cubic-bezier(0.4, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
