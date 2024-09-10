@@ -660,7 +660,9 @@ img {
 }
 
 .modal-form-input-privacy:checked + .modal-form-label .terms-conditions { 
-  background-color: #404BBF; border: none; fill: #F4F4FD; 
+  background-color: #404BBF; 
+  border: none; 
+  fill: #F4F4FD; 
 }
 
 .terms-conditions {
